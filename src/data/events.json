@@ -1,38 +1,5 @@
 [
   {
-    "eventName": "Digital Dreamers Den (D3) Workshop #1",
-    "eventDescription": "Digital Dreamers Den (D3) is a vibrant tech community that brings together AI Full-Stack Developers to build the future. We host events, workshops, and networking opportunities that connect talented engineers with cutting-edge technology and industry leaders.",
-    "eventDate": "2026-01-31",
-    "eventTime": "14:00",
-    "eventVenue": "YuniQ, 4th Floor, TICEL BIOPARK, 5, CSIR Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113",
-    "eventLink": "https://d3community.in/workshop-1",
-    "location": "Chennai",
-    "communityName": "Digital Dreamers Den (D3)",
-    "communityLogo": "https://i.ibb.co/Lh1nbgjy/D3-Community-Official-logo.png"
-  },
-  {
-    "eventName": "Code and Connect 3.0 - SheBuilds Chennai Meetup",
-    "eventDescription": "Join Tamilnadu's largest women-in-tech conference, let's learn, network and grow together!",
-    "eventDate": "2026-01-31",
-    "eventTime": "9:00",
-    "eventVenue": "Rajalakshmi Engineering College",
-    "eventLink": "https://luma.com/vs98di4e",
-    "location": "Chennai",
-    "communityName": "Shebuilds Chennai",
-    "communityLogo": "https://i.ibb.co/mCLbZ2Sb/shebuilds-logo.png"
-  },
-  {
-    "eventName": "The AI Connect (TAI) 3.0",
-    "eventDescription": "This full-day event is designed to immerse you in the latest AI trends, hands-on workshops, and insightful tech sessions led by industry experts. With interactive discussions, real-world applications, and networking opportunities, this is your chance to learn, connect, and innovate with fellow AI enthusiasts.",
-    "eventDate": "2026-01-31",
-    "eventTime": "10:00",
-    "eventVenue": "TSI Technologies Private Limited 4th Floor, Prestige Cosmopolitan 38, Sardar Patel Rd, Little Mount, Guindy, Chennai, Tamil Nadu 600034, India",
-    "eventLink": "https://luma.com/in2w4pv8",
-    "location": "Guindy, Chennai",
-    "communityName": "The AI Connect (TAI) 3.0",
-    "communityLogo": "https://i.ibb.co/pry2pPVc/TAI-LOGO.png"
-  },
-  {
     "eventName": "AI Memory Matters: Build AI apps with Memori without a million tokens",
     "eventDescription": "Join DevRelSquad X Memori Labs for an engaging panel discussion in Chennai! Learn how to build AI applications efficiently without extensive token usage, featuring industry experts and Q&A sessions to enhance your development knowledge.",
     "eventDate": "2026-02-07",
@@ -64,27 +31,5 @@
     "location": "Chennai",
     "communityName": "CTOtalk",
     "communityLogo": "https://i.ibb.co/k26BSd17/ctotalk-logo.jpg"
-  },
-  {
-    "eventName": "From-Dev-to-Ops | Devops Community Meetup Jan 31",
-    "eventDescription": "From-Dev-to-Ops is a community of devops, SRE and Platform Engineers who share raw, behind-the-scenes war room experiences — the outages, the quick fixes, the lessons learned, and the systems that broke in a fun, honest, and simple way.",
-    "eventDate": "2026-01-31",
-    "eventTime": "09:30",
-    "eventVenue": "Hexaware Technilogies, H-5, Sipcot It Park, Post, Navalur, Siruseri, Tamil Nadu 603103",
-    "eventLink": "https://luma.com/0m3vl3d2",
-    "location": "Chennai",
-    "communityName": "From-Dev-to-Ops",
-    "communityLogo": "https://i.ibb.co/KZTKzgt/from-dev-to-ops-logo-900-x-900-px.png"
-  },
-  {
-    "eventName": "Build2Learn Meetup #31",
-    "eventDescription": "Begin the year by building what’s been on your mind with curious minds beside you.",
-    "eventDate": "2026-01-31",
-    "eventTime": "09:30",
-    "eventVenue": "Entrans Technologies Private Limited Millenia Business Park, Phase Two, Dr MGR Main Rd, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
-    "eventLink": "https://events.build2learn.in/",
-    "location": "Chennai",
-    "communityName": "Build2Learn",
-    "communityLogo": "https://i.ibb.co/CBsgh43/bxOxo5O.png"
   }
 ]
